@@ -23,7 +23,7 @@ Before you start, ensure that you have the following installed on your system:
 
 2. To install simply **clone** the the repository from github by running: **git clone https://github.com/CF-Hyett/Hangman.git** in your command line 
 
-3. Run the python scrpit **milstone_5.py** . in your command line run: **python milestone_5.py** 
+3. Run the python scrpit **milestone_5.py**. in your command line run: **python milestone_5.py** 
 
 
 4. You should now be good to go!
@@ -32,7 +32,6 @@ Before you start, ensure that you have the following installed on your system:
 Playing the game is simple. After running the scrpit as previously mentioned in [**installation instructions**](#installation-instructions), follow the on-screen prompts in the terminal.
 
 Have fun!
-
 
 ## Licence information
 This Hangman game has no licensing.
